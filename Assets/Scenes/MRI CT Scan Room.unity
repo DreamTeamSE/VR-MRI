@@ -15215,7 +15215,7 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Audio 1
-    clip: {fileID: 8300000, guid: 412a4a432900c2b4a9b127b3b8f27744, type: 3}
+    clip: {fileID: 8300000, guid: 2578bc441505ba14285070893c51e05d, type: 3}
     volume: 1
     pitch: 1
     length: 0
@@ -15278,7 +15278,7 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Audio 8
-    clip: {fileID: 8300000, guid: d91dd1e4587cc4e46a91c66be506c7d4, type: 3}
+    clip: {fileID: 8300000, guid: fb2a3acebc4eaac458064763e5416215, type: 3}
     volume: 1
     pitch: 1
     length: 0
@@ -15287,7 +15287,7 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Audio 9
-    clip: {fileID: 8300000, guid: d4bcb257c2c40944ba79e6707ec39c2d, type: 3}
+    clip: {fileID: 8300000, guid: 1148b8e1d773c6c43a7fa0546b8e2d90, type: 3}
     volume: 1
     pitch: 1
     length: 0
@@ -15360,6 +15360,69 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: Audio 17
     clip: {fileID: 8300000, guid: aa0d6f02e54f3424cb6de3b4d17ea0a9, type: 3}
+    volume: 1
+    pitch: 1
+    length: 0
+    frequency: 0
+    samples: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Tour
+    clip: {fileID: 8300000, guid: d501c7f4d447d0e45b93211584a4123b, type: 3}
+    volume: 1
+    pitch: 1
+    length: 0
+    frequency: 0
+    samples: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Remember
+    clip: {fileID: 8300000, guid: 20cd8d418f38d464b81b07bd465a8905, type: 3}
+    volume: 1
+    pitch: 1
+    length: 0
+    frequency: 0
+    samples: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: MRI Room Door
+    clip: {fileID: 8300000, guid: f35e9863acdf0714492d8c68d3ff5d52, type: 3}
+    volume: 1
+    pitch: 1
+    length: 0
+    frequency: 0
+    samples: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Mirrored
+    clip: {fileID: 8300000, guid: 34829e11398484c45a66575ed881aad3, type: 3}
+    volume: 1
+    pitch: 1
+    length: 0
+    frequency: 0
+    samples: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Hallway
+    clip: {fileID: 8300000, guid: ec364eb392e2d674697e00d49b9fb73c, type: 3}
+    volume: 1
+    pitch: 1
+    length: 0
+    frequency: 0
+    samples: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Great Job
+    clip: {fileID: 8300000, guid: b8ebace442d64f14da00d21b5e51dda9, type: 3}
+    volume: 1
+    pitch: 1
+    length: 0
+    frequency: 0
+    samples: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Double Doors
+    clip: {fileID: 8300000, guid: c703e0e4071b4f847b1f47a20dfe6db5, type: 3}
     volume: 1
     pitch: 1
     length: 0
